@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">RegrasJogo</string>
+    <string name="dama">Regras do jogo da velha</string>
+</resources>
